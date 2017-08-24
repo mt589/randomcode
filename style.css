@@ -1,0 +1,17 @@
+
+h1{
+  text-align: center;
+  text-shadow: 4px 4px gray;
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  padding-bottom: 7px;
+  font-size: 30px;
+}
+p{
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+body{
+  background-image: url(https://www.motionbackgroundsforfree.com/wp-content/uploads/2016/04/700-min.jpg);
+}
