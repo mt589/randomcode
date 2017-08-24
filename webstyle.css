@@ -1,0 +1,22 @@
+h1{
+  text-align: center;
+  text-shadow: 4px 4px gray;
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  padding-bottom: 7px;
+  font-size: 30px;
+}
+p{
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 3px;
+}
+body{
+  background-image: url(http://media.istockphoto.com/photos/downtown-new-york-skyline-panorama-from-liberty-state-park-usa-picture-id523621110?k=6&m=523621110&s=612x612&w=0&h=-TJ6BPK9gX1H31bMOadaSvBA4kAiBSF-uJZnDolHS2Y=);
+
+  #subtitle {
+    color: #800000;
+  }
+  .listelements {
+    color: #0000CD;
+}
